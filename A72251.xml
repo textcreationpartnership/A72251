@@ -1,0 +1,726 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conditions of Christianity, or, The termes upon which Christ will be followed a necessary consideration for them that otherwise would bee apt to take up religion upon trust, and only keep company with Christ awhile for fashion sake / by Mr. Christopher Harvey, sometime minister of Gods word at Bunbury in Cheshire.</title>
+            <author>Harvey, Christopher, d. ca. 1602.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72251</idno>
+            <idno type="STC">STC 12897.5</idno>
+            <idno type="STC">ESTC S5223</idno>
+            <idno type="EEBO-CITATION">39960687</idno>
+            <idno type="OCLC">ocm 39960687</idno>
+            <idno type="VID">150405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1947:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conditions of Christianity, or, The termes upon which Christ will be followed a necessary consideration for them that otherwise would bee apt to take up religion upon trust, and only keep company with Christ awhile for fashion sake / by Mr. Christopher Harvey, sometime minister of Gods word at Bunbury in Cheshire.</title>
+                  <author>Harvey, Christopher, d. ca. 1602.</author>
+               </titleStmt>
+               <extent>[6], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.B. for P. Stephens, and C. Meridith, and are to sold at their Shop at the signe of the golden Lion in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Christopher Harvey.</note>
+                  <note>"Imprimatur. Thomas Weekes." -- p. 76.</note>
+                  <note>Signatures: A⁴, b-c¹², e².</note>
+                  <note>Imperfect: cropped, stained and tightly bound.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke IX, 23 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150405:1" rendition="simple:additions"/>
+            <p>THE CONDITIONS OF CHRISTIANITY: <hi>OR,</hi> The termes upon which <hi>Chriſt</hi> will be followed. A neceſſary conſideration for them that otherwiſe would bee apt to take up <hi>Religion</hi> upon truſt, and only keep company with CHRIST a while for faſhion ſake.</p>
+            <p>By M<hi rend="sup">r.</hi> 
+               <hi>Christopher Har<g ref="char:EOLhyphen"/>vey,</hi> ſometime Miniſter of GODS Word at <hi>Bunbury</hi> in CHESHIRE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R.B.</hi> for <hi>P. Stephens,</hi> and <hi>C. Meridith,</hi> and are to be ſold at their Shop at the ſigne of the <hi>golden Lion</hi> in <hi>Pauls</hi> Church-yard. 1636.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150405:2"/>
+            <pb facs="tcp:150405:2"/>
+            <head>TO MY DEARE MOTHER M<hi rend="sup">rs.</hi> HELLEN PIERSON.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt deare, and moſt worthy to bee moſt deare, Mother, I remember a ſpeech which diverſe yeares a goe, fell from you, peradven<g ref="char:EOLhyphen"/>ture then but caſually: when looking upon a booke that was Dedicated by a Sonne to his Mother, you ſaid, you did hope one day to ſee the like from mee. It may bee your
+<pb facs="tcp:150405:3"/> words were then more a<g ref="char:EOLhyphen"/>greeable to your deſire then your expectation: yet you ſee them in ſome ſort ful<g ref="char:EOLhyphen"/>filled now. This only is the difference, that what he publi<g ref="char:EOLhyphen"/>ſhed was penned by himſelfe, but that which I preſent you with, is no otherwiſe mine, than it was yours before, being part of the fruit of the labours of my reverend Father you former husband: which being by you, with the reſt of his pa<g ref="char:EOLunhyphen"/>pers, reſerved for my uſe: is now at laſt come to my hand by the much lamented death of your late reverend Hus<g ref="char:EOLhyphen"/>band Maſter <hi>Tho. Pierſon</hi>
+            </p>
+            <p>Two ſuch Husbands and Fathers few women and their ſonnes have. I ſhould eſteeme it not a little happineſſe, if I
+<pb facs="tcp:150405:3"/> might be a meanes to adde but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alfe that credit to their me<g ref="char:EOLhyphen"/>mories, that you did comfort <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o their lives. For the for<g ref="char:EOLhyphen"/>mer, the penne-man of this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle Treatiſe, to expatiate in his praiſes would bee neither ſeemely for mee who am his ſonne, nor ſeaſonable now when already he hath had his reſt in peace theſe foure and thirtie yeares &amp; upward, nor ſutable to the proportion of ſo ſmall a volume, unto which even this may ſeeme too large an en<g ref="char:EOLhyphen"/>trance. For the Treatiſe it ſelfe, ſuch as it is I received it from you, and returne it to you and thorough your hands commend it to the uſe of all them that deſire to bee Chri<g ref="char:EOLhyphen"/>ſtians, in an earneſt, not in word and tongue only, but in
+<pb facs="tcp:150405:4"/> deed and truth. So humbly craving what I know, I have your daily prayers for bleſsings upon me and mine, I reſt though much unworthy, yet moſt deſirous to be ſtill,</p>
+            <closer>
+               <signed>Your every way obſervant and obedient Sonne, Chriſtopher Harvey.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150405:4"/>
+            <head>THE CONDITIONS OF CHRISTIANITY.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke 9.23.</hi>
+                  </bibl>
+                  <p>And hee ſaid unto them all, If any man will come af<g ref="char:EOLhyphen"/>ter mee, let him deny him<g ref="char:EOLhyphen"/>ſelfe, and take up his Croſſe dayly, and follow me.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>Vr <hi>bleſſed Lord</hi> and <hi>Saviour,</hi> having ſigni<g ref="char:EOLhyphen"/>fied unto his <hi>Diſciples,</hi> and ſuch as followed him, that
+<pb n="2" facs="tcp:150405:5"/> the time drew neere, when hee ſhould accompliſh the thing, whereto he was ſent into the world; and that hee ſhould ſuffer many things, as reproofes, ſlan<g ref="char:EOLhyphen"/>ders, revilings, even of the Elders, and chiefe gover<g ref="char:EOLhyphen"/>nours of his people, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the High Prieſts, which challenged to themſelves the chiefe rule in GODS <hi>Church,</hi> and of the Scribes, that tooke upon them to teach and inſtruct GODS people in the truth; yea, that they would not leave him til they had his bloud, and had ſlaine him, ſetteth downe this thing; to bee noted of all ſuch, as had made profeſſion of him, that if they would goe
+<pb n="3" facs="tcp:150405:5"/> after him, and beare him <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompany, they muſt wil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ngly every one of them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke up their Croſſe on their ſhoulders, and come <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter him.</p>
+            <p>Which is in very deed,<note place="margin">Luk. 14.27, &amp;c.</note> as our Saviour declareth, the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt leſſon, <hi>that every one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt learne, that hath deter<g ref="char:EOLhyphen"/>mined to follow Chriſt, to bee <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Diſciple, to be a Chriſti<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to be ſaved, and inherite <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e kingdome of heaven.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or, as a man that deter<g ref="char:EOLhyphen"/>mineth to build him an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſe, if he have any wit and common ſenſe with him, will caſt with him<g ref="char:EOLhyphen"/>ſelfe, and make account with the moſt, what it is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke to coſt him, and what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll things thereto neceſſa<g ref="char:EOLhyphen"/>rily
+<pb n="4" facs="tcp:150405:6"/> appertaining will ly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him in, that ſo he may un<g ref="char:EOLunhyphen"/>derſtand, whether his abi<g ref="char:EOLunhyphen"/>lity will ſtretch ſo farre, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to bring it to paſſe, le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> otherwiſe he be enforce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to leave off that which h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath begunne, and ſo be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mocked, as a foole, of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſee his doings. So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaith our Saviour, He that meaneth, and hath full<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purpoſed in his heart, to become a Chriſtian, and to inherit the kingdome o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heaven, muſt firſt ſit him downe, and caſt his ac<g ref="char:EOLunhyphen"/>count, what it will lye him in, that knowing the price hee may ſee, whether he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may attaine it, or no; leſt, not knowing the matter, hee give over in the midſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:150405:6"/> of his travell, and be con<g ref="char:EOLhyphen"/>demned for a foole and ig<g ref="char:EOLhyphen"/>norant perſon.</p>
+            <p>This kingdome of hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en is a houſe, farre paſſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worldly poſſeſſions whatſoever, a pearle, more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ecious than the whole world beſides: there is no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an, which hath heard of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but would bee deſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us to attaine it, and eve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>one, that would bee cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d a Chriſtian man, hath <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſolved to purchaſe it: <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at, for want of know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dge, there are many, which having begunne to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uild, have given over, when they ſaw how great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> matter it was, and what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he price was, that it would coſt them, ere they
+<pb n="6" facs="tcp:150405:7"/> had ended. This cann<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then but be a neceſſary le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſon for us all, which hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this purpoſe to follo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt, to be with him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> live with him: this is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt leſſon, as I ſaid, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Chriſts</hi> Schoole: namely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to know the ſumme of o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charges, what it will ly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us in, if wee will attain <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this pearle, our Saviou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> delivereth it unto us brie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly, that we need not labou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſearch it out: for he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath taught us all things <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which are neceſſary for u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to know. <hi>It is this then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee, that will follow Christ must deny himſelfe, take up his Croſſe dayly, and follow him.</hi>
+            </p>
+            <p>
+               <hi>He that will follow Chriſt,</hi>
+               <pb n="7" facs="tcp:150405:7"/> to be his Diſciple, his ſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant, and ſo with him to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne in joy, with God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Father, theſe two <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings are neceſſarily re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uired of him, without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich hee cannot attaine his eſtate: Firſt, hee muſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eny himſelfe: Secondly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e muſt be content to take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p his Croſſe willingly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd beare it, not for a day, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r a yeare, but continually, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd for ever, and ſo follow him.</p>
+            <p>He that will be conten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to doe thus, him <hi>Chriſt</hi> will delight in, him he will make an inheritour in hea<g ref="char:EOLhyphen"/>ven with him, he ſhall en<g ref="char:EOLhyphen"/>ter into the joy of his Lord, and and bee made partaker of all the bleſ<g ref="char:EOLhyphen"/>ſings,
+<pb n="8" facs="tcp:150405:8"/> which GOD hath prepared in heaven for ſuch as love him.</p>
+            <p>An excellent pearle this is, deare brethren, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great valew, a worthy houſe, and of high price but it will coſt us all that ever we have to buy it, and the coſt to build it will be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as much, as all we have a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mounteth unto. Now conſider with your owne hearts what to doe; whe<g ref="char:EOLunhyphen"/>ther you will play the wiſe Merchants, or no: whe<g ref="char:EOLunhyphen"/>ther doe as wiſe builders or as fooliſh perſons. What thing ſo happy for you,<note place="margin">1 Cor. 2.9.</note> as to follow Chriſt, to inherite the kingdom of heaven, and thoſe eternall joyes, which heart cannot
+<pb n="9" facs="tcp:150405:8"/> thinke, nor have ever en<g ref="char:EOLhyphen"/>tred into the mind of any man, to bee bleſſed, and happy for evermore?</p>
+            <p>I will not endeavour to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell you the excellency of them, that ſhall follow <hi>Chriſt:</hi> my tongue cannot utter it, the tongue of any man is but the tongue of a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abe to tell you theſe things: a ſmall taſt there<g ref="char:EOLhyphen"/>of in our ſoules will en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lame us, with a longing after it; one glimpſe ther<g ref="char:EOLhyphen"/>of is ſufficient to raviſh us, with a deſire of it. Our Saviour, in a word, telleth his Diſciples, asking him, what they ſhall have, that have left all, and followed him,<note place="margin">Mat. 19.28</note> 
+               <hi>that they ſhall partici<g ref="char:EOLhyphen"/>pate with him in his ſove<g ref="char:EOLhyphen"/>raigne
+<pb n="10" facs="tcp:150405:9"/> glory, and in his king<g ref="char:EOLunhyphen"/>dome ſhall ſit on thrones, like Princes, and Iudge th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> twelve tribes of Iſrael. Ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall bee made Kings, not o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> earth, or earthly things, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of heaven:</hi>
+               <note place="margin">1 Cor. 6.3.</note> 
+               <hi>yee ſhall judg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the tribes of Iſrael, yea, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very Angels themſelves</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as <hi>Paul</hi> teacheth. Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing, which wee ſee th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greateſt in this world, to bee a King,<note place="margin">Matth. 20.23.</note> a Iudge, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which <hi>Zebedees</hi> Children deſired in this life: that, and farre greater, ſhall every one of them have that follow CHRIST: not <hi>Zebedees</hi> Children, but e<g ref="char:EOLhyphen"/>very one of us, that follow <hi>Chriſt, ſhall ſit on his right hand, in his heavenly king<g ref="char:EOLhyphen"/>dome.</hi>
+            </p>
+            <pb n="11" facs="tcp:150405:9"/>
+            <p>But let us ſee, what con<g ref="char:EOLhyphen"/>dition is required, of them that muſt come to this ex<g ref="char:EOLhyphen"/>ceeding glory, what the price thereof is, and what wee muſt lay out, if wee will attaine it. Two things <hi>Chriſt</hi> requireth: Firſt, <hi>that wee ſhould deny our ſelves:</hi> that is, utterly to renounce whatſoever is naturally in us, whether it appertaine to our wit, or knowledge, or whether it belong to our affections, actions, deeds and practices. For our owne wit, not to credit it, to refuſe our own coun<g ref="char:EOLhyphen"/>ſell, to renounce what fleſh and bloud putteth in our heads, and to bee content to know nothing, to un<g ref="char:EOLhyphen"/>derſtand nothing, but what
+<pb n="12" facs="tcp:150405:10"/> 
+               <hi>Chriſt</hi> hath taught us, and willed us to know.<note place="margin">1 Cor. 3.18.</note> Which Saint <hi>Paul</hi> declareth, when he ſaith, <hi>that, if any will be wiſe, the onely way is to be<g ref="char:EOLhyphen"/>come a foole,</hi> a foole to the world, a foole to fleſh and bloud, a foole to all, that have not ſubmitted them<g ref="char:EOLhyphen"/>ſelves to <hi>Chriſt;</hi> this is the way to be wiſe, this is the firſt ſteppe, which we muſt make in following <hi>Chriſt.</hi> The firſt thing, when wee come into <hi>Chriſts</hi> Schoole, that wee muſt tread upon, is our owne necke.</p>
+            <p>A hard leſſon, deare bre<g ref="char:EOLhyphen"/>thren, for fleſh and bloud, which naturally is puffed up with a ſelfe-liking of it ſelfe, and of thoſe things, which belong to it: which
+<pb n="13" facs="tcp:150405:10"/> is the cauſe indeed,<note place="margin">1 Cor. 1.26.</note> 
+               <hi>that ſo few wiſe, ſo few noble, ſo few mighty, are called to fol<g ref="char:EOLhyphen"/>low Chriſt:</hi> for that they are hardly brought to this paſſe, to deny and defie themſelves, to account of their wiſedome as folly, their ſtrength weakeneſſe, their nobility baſeneſſe; to eſteeme all things in them, as dung, to winne <hi>Ieſus Christ.</hi>
+            </p>
+            <p>And yet, ſo it is, that until we be brought to this paſſe, to deny all that is in us, to lay even our crownes at Chriſts feet, we cannot follow him. Neither muſt wee onely deny our know<g ref="char:EOLhyphen"/>ledge, wit, and underſtan<g ref="char:EOLhyphen"/>ding, to learne, and know onely what Chriſt hath
+<pb n="15" facs="tcp:150405:11"/> taught us; but we muſt al<g ref="char:EOLhyphen"/>ſo deny our owne deeds, ſuch thoughts, and works, as wee are naturally given unto. For, hee, <hi>that will follow Christ,</hi>
+               <note place="margin">1 Pet. 1.15. 2 Cor. 6.14, 15.</note> 
+               <hi>muſt be holy, as he is holy: for, what fel<g ref="char:EOLhyphen"/>lowſhip can there be betwixt light and darkneſſe? Chriſt, and the ſonnes of Belial?</hi> wicked and ungodly per<g ref="char:EOLhyphen"/>ſons,<note place="margin">Amos 3.3.</note> and our Saviour Chriſt? <hi>Can two walke to<g ref="char:EOLhyphen"/>gether, except they bee a<g ref="char:EOLhyphen"/>greed?</hi> By nature wee are all ſinners, our hearts are ſet on fleſhly luſts, and un<g ref="char:EOLhyphen"/>godly deeds, which God hateth, and his ſoule hath no pleaſure in: and all ſin<g ref="char:EOLhyphen"/>ners are his enemies, whom his ſoule hateth. Where<g ref="char:EOLhyphen"/>fore, till ſuch time, as wee
+<pb n="15" facs="tcp:150405:11"/> have denied theſe ungodly luſts, and naturall tranſ<g ref="char:EOLhyphen"/>greſſions, wherein we walk, even from our birth, we are enemies to God; and ther<g ref="char:EOLhyphen"/>fore, being not agreed, and made friends, wee cannot walke together with God, we cannot follow Chriſt.<note place="margin">1 Ioh. 1.6.</note> Wherefore Saint <hi>Iohn</hi> tel<g ref="char:EOLhyphen"/>leth us, <hi>that whoſoever ſaith, that he hath fellowſhip with Christ, that he is his compa<g ref="char:EOLhyphen"/>nion, that he followeth him, and walketh in darkeneſſe, in his owne way, he lyeth, there is no truth in him. For none can follow</hi> CHRIST, <hi>but hee, that hath denyed him<g ref="char:EOLhyphen"/>ſelfe,</hi> forgone his wicked life, which naturally he is inclined to, and is become a new Creature.</p>
+            <pb n="16" facs="tcp:150405:12"/>
+            <p>Here we may mark, that our <hi>Saviour biddeth us deny our ſelves.</hi> Hee ſaith not, deny ungodly workes, de<g ref="char:EOLhyphen"/>ny the wiſedome of the fleſh, though he meaneth, as hath beene ſaid, ſuch things; but deny our ſelves: to ſhew unto us the great corruption, which is in our nature,<note place="margin">Rom. 6.6.</note> 
+               <hi>that wee are not only ſinfull, but even ſin it ſelfe,</hi> as it were, this bo<g ref="char:EOLhyphen"/>dy of ſinne, <hi>wee muſt deny our ſelves.</hi>
+               <note place="margin">Col. 3.5.</note> So Saint <hi>Paul</hi> calleth them our mem<g ref="char:EOLhyphen"/>bers. <hi>Mortifie your earth<g ref="char:EOLhyphen"/>ly members.</hi> To which purpoſe alſo the Scripture ſpeaketh, when it ſaith, <hi>that we are</hi> not only ſick in <hi>ſinnes and treſpaſſes,</hi>
+               <note place="margin">Eph. 2.1.</note> or wounded, or maymed, but
+<pb n="17" facs="tcp:150405:12"/> even <hi>dead:</hi> of no more power, and ability to doe that, which GOD liketh, then dead men to performe the actions of this life.<note place="margin">Ioh. 5.25 28.</note> And our Saviour Chriſt tea<g ref="char:EOLhyphen"/>cheth, that it is the power of his Goſpell, to raiſe, not ſuch, as are fallen, not ſuch, as are a ſleepe, but even thoſe, that are dead, yea ſuch, as are in the graves, over whom death hath do<g ref="char:EOLhyphen"/>minion, who are buryed, as dead men,<note place="margin">Pſ. 51.10.</note> in ſins and tranſ<g ref="char:EOLhyphen"/>greſſions. Which alſo the holy Prophets acknow<g ref="char:EOLhyphen"/>ledged, when <hi>David</hi> pray<g ref="char:EOLhyphen"/>eth, not to reforme, or a<g ref="char:EOLhyphen"/>mend, as a thing, in which ſome ſmall, fault was, but to create a new heart with<g ref="char:EOLhyphen"/>in him, to frame him again,
+<pb n="18" facs="tcp:150405:13"/> and caſt him, as it were, in a new mould. <hi>Create in me a cleane heart, O Lord, and renew a right ſpirit within mee.</hi>
+            </p>
+            <p>If you aske of me, how can this be? This is an hard ſpeech, that wee are dead, that we can doe no<g ref="char:EOLhyphen"/>thing: to what purpoſe then is Gods word prea<g ref="char:EOLhyphen"/>ched to us? Why are wee commanded to ſerve God, to follow Chriſt? If wee be dead, we cannot doe it: it is in vaine to command any ſuch thing. Nay, <hi>God</hi> forbid we ſhould ſo think. Our Saviours words bee truth and life. Hee ſaith, his Goſpell is preached, even to them that are as dead men in the graves.
+<pb n="19" facs="tcp:150405:13"/> And how then? Is that to any purpoſe? Yea ſure,<note place="margin">Ioh. 5.28.</note> for hee ſaith, that the power thereof is ſuch, that they ſhall heare, which are in their graves. We be dead in ſinnes, not able to move one whit to any good thing; yet is the Goſpell preached to us, <hi>&amp;c.</hi> that it will quicken us, it will re<g ref="char:EOLhyphen"/>vive, and ſet us on our feet, it will raiſe us from the death of ſinne, and create us anew, to ſerve God, and walke in his Commande<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Which point the <hi>Lord</hi> openeth in the Prophet <hi>Ezekiel,</hi> ſpeaking of the gathering together of his Church, hee ſaith,<note place="margin">Ezek. 11.19.</note> 
+               <hi>I will give them one heart, and put
+<pb n="20" facs="tcp:150405:14"/> a new ſpirit within their bowels, I will take the ſtony heart out of their bodyes, and I will give them an heart of fleſh, that they may walke in my statutes, and they ſhall be my people, and I will be their God.</hi> Hee ſheweth, what wee are by nature, what metall wee are made of, ſtones; the workman, that doth this great fear, is God. <hi>I will take the ſtony heart out of their bodyes.</hi> Man can make new faces, Hypo<g ref="char:EOLhyphen"/>crites can alter their coun<g ref="char:EOLhyphen"/>tenances, but it is GOD alone, that maketh new hearts. There is, within each one of us, a heart of ſtone: is it then any mar<g ref="char:EOLhyphen"/>vell, though we be beaten upon, never ſo hard, that
+<pb n="21" facs="tcp:150405:14"/> we yeeld not? though the ſeed bee caſt, never ſo oft, that it groweth not? though the dew of heaven fall, never ſo oft, that wee fructifie not? Why, our heart is of ſtone, which beateth backe the ſtroake, and will not yeeld, it is a rocke, on which the ſeed cannot take root, a hard flint, into which the hard droppes cannot pierce. And how ſhall wee doe?<note place="margin">Heb. 6.7.7, 8.</note> the ground, which recei<g ref="char:EOLhyphen"/>veth the raine, and brin<g ref="char:EOLhyphen"/>geth not forth fruit, is curſed, and ſhall bee bur<g ref="char:EOLhyphen"/>ned. GOD alone, deere brethren, can rippe us up, and pul up this ſtony heart, and place for it an heart of fleſh. <hi>The onely hammer,
+<pb n="22" facs="tcp:150405:15"/> that breaketh this ſtone,</hi>
+               <note place="margin">Ier. 23.29.</note> 
+               <hi>is the word of God: wherefore, we must willingly ſuffer it to be ſtricken therewithall, that it may be bruiſed. The rod of Gods power,</hi>
+               <note place="margin">Pſ. 110.2.</note> 
+               <hi>(as it is called in the Pſalme,) if it ſtrike the rocke, the waters ſhall guſh out of it.</hi> But before this, our heart is a ſtone, which cannot yeeld, which can<g ref="char:EOLhyphen"/>not bee bowed, untoward, nothing fit without prepa<g ref="char:EOLhyphen"/>ration, not fit to be taught, it cannot bee mended, wee muſt needs have a new. It is ſtone, hard mettall, no<g ref="char:EOLhyphen"/>thing fit for this purpoſe, it muſt bee taken away, quite away, and another ſort of matter put in place. If we will follow Chriſt, wee muſt renounce, even our ſelves.</p>
+            <pb n="23" facs="tcp:150405:15"/>
+            <p>The ſecond generall point is, the taking up of our Croſſe, we muſt take it up. It is not a badge of Chriſtians, to have a Croſſe on their backes, for the wicked alſo have very many: but the difference is this, the wicked have croſ<g ref="char:EOLhyphen"/>ſes layd on their backes, which they beare, but a<g ref="char:EOLhyphen"/>gainſt their wills: the god<g ref="char:EOLhyphen"/>ly, that follow Chriſt, have taken up their Croſſes, that is, have willingly ſubmit<g ref="char:EOLhyphen"/>ted themſelves thereunto. A wild and unruly horſe, which is to be broken, bea<g ref="char:EOLhyphen"/>reth his rider on his backe, but it is againſt his will, hee flingeth, and runneth, and chafeth, but in vaine, hee tooke not up his rider,
+<pb n="24" facs="tcp:150405:16"/> but beareth him againſt his will. So is it with the un<g ref="char:EOLhyphen"/>godly, they are often in misfortune, and trouble, and adverſity, they have many croſſes on their backes, but faine would they ſhake them off, if they could; but all in vaine: the godly have ſtooped downe, and taken up their Croſſe, and patiently carry it, becauſe they know, it is <hi>Gods</hi> appointment, ſo to exerciſe al thoſe, whom he meaneth to make inheri<g ref="char:EOLhyphen"/>tors of his kingdome.</p>
+            <p>The name of Croſſe in this place, as in diverſe o<g ref="char:EOLhyphen"/>thers of the New Teſta<g ref="char:EOLhyphen"/>ment, is uſed, for any miſe<g ref="char:EOLhyphen"/>ry, trouble, affliction, di<g ref="char:EOLhyphen"/>ſtreſſe, vexation, of body,
+<pb n="25" facs="tcp:150405:16"/> or mind, which it pleaſeth GOD, to ſend upon his Children: which, becauſe it is diverſe, and not after one ſort, Chriſt commandeth each one, to take up his owne Croſſe; GOD ha<g ref="char:EOLhyphen"/>ving layd this on one, that on another, according to his mercy, and wiſedome; which diſpoſeth, as plea<g ref="char:EOLhyphen"/>ſeth him, of them: on ſome hee layeth a lighter, becauſe he knoweth their weakneſſe, and being faith<g ref="char:EOLhyphen"/>full, will not tempt them above their ſtrength; on others a heavier, to whom hee hath given a greater meaſure of patience, and endurance. But whatſo<g ref="char:EOLhyphen"/>ever it bee, whether ſmall or great, light or heavy, we
+<pb n="26" facs="tcp:150405:17"/> muſt be content to ſuſtaine it.</p>
+            <p>The name of Croſſe is not uſed, without great cauſe, in this, and the like places. The death of the Croſſe was a puniſhment, not only moſt painfull, but moſt ignominious alſo, and full of all ſhame, and re<g ref="char:EOLhyphen"/>proach: and ſo much the more,<note place="margin">Deut. 21.23.</note> among the Iewes, for that he was pronoun<g ref="char:EOLhyphen"/>ced accurſed, by GODS owne mouth, that came to this death. The Gal<g ref="char:EOLhyphen"/>lowes among us is ſhame<g ref="char:EOLhyphen"/>full, as you know, and to bee hanged, wee count it commonly a dogs death: but this cannot bee in ſuch contempt, as was the Croſſe, which, by GODS
+<pb n="27" facs="tcp:150405:17"/> owne mouth, brought a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſe to every one that han<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d on it. And, ſo much <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>emore, was the ſhame of them, that ſo dyed, for that they were enforced, as the Evangeliſts, and other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ophane writers teach, to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rry it on their backes, which they ſhould preſent<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be hanged upon. For, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here we read, <hi>that Simon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cyrene was enforced,</hi>
+               <note place="margin">Mar. 15.21</note> 
+               <hi>to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re the Croſſe,</hi> which our <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>viour dyed on, it was, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he, being wearyed, and weakened, with paines and ſorrowes, did himſelfe, then hee was in the way, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt under it, not able to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rry it any longer. Where<g ref="char:EOLhyphen"/>fore, when Chriſt talketh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere of a Croſſe, which
+<pb n="28" facs="tcp:150405:18"/> every one muſt take up, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is meant, that they ſhould prepare themſelves, for the moſt grievous, and m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhamefull, and contemp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous dealing, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> world could deviſe agai<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> them. So that wee m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> bee content, to ſuſtaine <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> griefes, miſeries, loſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> friends, of goods, bani<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment, impriſonment, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſlandered, envied, bely<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evil ſpoken of, reproache<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a word, to endure, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the naughtineſſe, and ma<g ref="char:EOLunhyphen"/>lice of all the world, c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deviſe againſt us, even <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the very death. For this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to take up our Croſſe, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the charge wee muſt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at, if wee will build o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houſe; the precious pear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="29" facs="tcp:150405:18"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l coſt not a whit leſſe.</p>
+            <p>Againe, when all our af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ctions, which God ſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th us, are called croſſes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is to our great comfort, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen we ſee, that whatſo<g ref="char:EOLhyphen"/>ever we endure, for Chriſts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and his Goſpell, wee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e crucified, as it were, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> communicate with him ſuffering, and that, after <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort, Chriſt beareth this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roſſe with us. For ſuch fellowſhip, and partaking there, betwixt Chriſt the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, and his ſervants the members, that when they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffer,<note place="margin">Acts 9.4</note> hee ſuffereth with them: <hi>Paul</hi> perſecuted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em, and therefore perſe<g ref="char:EOLhyphen"/>cuted him: and ſo, I trow, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aint <hi>Paul</hi> himſelfe after<g ref="char:EOLhyphen"/>wards calleth his ſufferings
+<pb n="30" facs="tcp:150405:19"/> 
+               <hi>Chriſts.</hi>
+               <note place="margin">Col. 1.24.</note> Now fulfill <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my fleſh the reſt of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>flictions of CHRIST Hee hath ſuffered perfect to redeeme us, but the ſuf<g ref="char:EOLunhyphen"/>fering of tryal, and proo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hee endureth in his mem<g ref="char:EOLunhyphen"/>bers, partaking with the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all their puniſhments, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> afflictions are Croſſes. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that, when wee are in a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> calamity, for Gods cau<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> let us call to minde, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is our Croſſe, and ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it on our backe patient<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> remembring, that Chriſt in our company, to partake with us thereof. <hi>Ru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> found ſuch goodneſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Naomi</hi> her mother in Law that,<note place="margin">Ruth 1.16.</note> when ſhee was to de<g ref="char:EOLunhyphen"/>part out of <hi>Moab,</hi> when <hi>Ruth</hi> was borne, and
+<pb n="31" facs="tcp:150405:19"/> brought up, into the land of <hi>Iſrael, Ruth</hi> would not leave her, in any caſe, though her ſiſter in Law had returned, but requeſted her, not to will her ſo. <hi>In<g ref="char:EOLhyphen"/>treat mee not, ſaith ſhee, to leave thee, neither to depart from thee; for whither thou goeſt, I will goe, where thou dwelleſt, I will dwell, thy peo<g ref="char:EOLhyphen"/>ple ſhall bee my people, thy God my God, where thou dy<g ref="char:EOLhyphen"/>est, will I dye, and there will I be buryed: the Lord doe ſo to me, and more alſo, if ought, but death, depart me and thee.</hi> Did the curteſie, which <hi>Naomi</hi> had ſhewed her daughter in law, ſo tye her heart unto her, that ſhe was content, to leave her owne people, and her fathers
+<pb n="32" facs="tcp:150405:20"/> houſe, and her gods, to go into a ſtrange land, to ſtrange people, yea to ſweare ſolemnly, that no<g ref="char:EOLunhyphen"/>thing, but death, ſhould depart them? What could <hi>Naomi</hi> do for <hi>Ruth?</hi> a wo<g ref="char:EOLunhyphen"/>man, a widdow, deprived of her husband, and chil<g ref="char:EOLhyphen"/>dren, now not <hi>Naomi,</hi> beautifull, but <hi>Marah,</hi> bit<g ref="char:EOLhyphen"/>ter, to whom GOD had given much bitternes<g ref="char:punc">▪</g> whom hee had humbled, and brought into adverſi<g ref="char:EOLhyphen"/>ty, whom he had loaded with an heavy Croſſe? yet would not <hi>Ruth</hi> leave her, ſhee would take up her Croſſe, and follow her, till death ſhould depart them. Oh that faithfull ſoule, which hath taken ſuch de<g ref="char:EOLhyphen"/>light
+<pb n="33" facs="tcp:150405:20"/> in Chriſt, as to love him, as <hi>Ruth</hi> did <hi>Naomi,</hi> that forſaketh father, and mother, wife, and children, all the world, to goe after Chriſt, who intreateth us, not to leave him, nor to de<g ref="char:EOLhyphen"/>part from him, but willeth us to follow him! O hap<g ref="char:EOLhyphen"/>py man, that hath ſaid in his heart, <hi>Lord Ieſus,</hi> which art ſweet, and in whom is no bitterneſſe, whoſe love is pleaſanter than Wine, thou call eſt me after thee: draw mee, good LORD, and I will runne after thee: thou biddeſt mee take up my Croſſe, ſee, LORD, I am ready, I rejoyce in all adverſity, I thinke my ſelfe happy, that I ſuffer for thy names ſake, I will not leave
+<pb n="34" facs="tcp:150405:21"/> thee, O LORD, nor de<g ref="char:EOLunhyphen"/>part from thee, whithe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou goeſt, will I goe, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into baniſhment, I leav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mine owne Country, if in<g ref="char:EOLunhyphen"/>to priſon, I refuſe all liber<g ref="char:EOLunhyphen"/>ty, if into reproach, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reviling, I give my cheeke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the ſcorners, <hi>where thou dwellest, I will dwell, thy people ſhall be my people, thy God my God, the Lord doe ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to me, and more alſo, if tri<g ref="char:EOLhyphen"/>bulation, or anguiſh, or perſe<g ref="char:EOLhyphen"/>cution, or famine, or naked<g ref="char:EOLhyphen"/>neſſe, or perill, or the ſword, yea if death it ſelfe depart thee and me?</hi> Death muſt depart <hi>Ruth</hi> and <hi>Naomi,</hi> death cannot depart us and CHRIST; Nay, where their comfort ended, there doth ours begin: for death
+<pb n="35" facs="tcp:150405:21"/> joyneth us moſt neere to Chriſt: it taketh the Croſſe from our ſhoulders, and ſetteth a Crowne on our heads. It maketh an end of all the love of this world: man and wife, that are one fleſh, are but tyed till death come; death un<g ref="char:EOLhyphen"/>doeth all knots, but this, wherewith the faithfull ſoule is tyed to Chriſt; for this death maketh moſt ſure, which never ſhall bee looſed. Ye ſee then, that by the name of Croſſe is meant, all affliction, which God layeth on us, for our tryall, and that this name is uſed, to teach us, that we muſt endure it, how full of paine, or ſhame ſoever it bee, and that in it Chriſt
+<pb n="36" facs="tcp:150405:22"/> doth after a ſort, partake with us.</p>
+            <p>Now it followeth, in our Saviours words, <hi>let him take up his Croſſe daily and follow mee. Take it up?</hi> when? or how long? dai<g ref="char:EOLhyphen"/>ly. This is not added, by our Saviour, without juſt cauſe: for ſuch is our blindneſſe, and overthwart<g ref="char:EOLhyphen"/>neſſe, in ſuch things as <hi>God</hi> commandeth us, that wee ſeeke for ſtarting holes, to ſhrinke out at, and either make doubt of the matter, or, moſt commonly, define of our ſelves, what ſence the things muſt beare, which it pleaſeth us to call in queſtion. So, our Sa<g ref="char:EOLhyphen"/>viour, having taught his Diſciples, and in them us,
+<pb n="37" facs="tcp:150405:22"/> to forgive our brethren, if they offend, or treſpaſſe a<g ref="char:EOLhyphen"/>gainſt us, as wee pray our heavenly Father, to for<g ref="char:EOLhyphen"/>give us; <hi>Peter,</hi> in whom yet fleſh and bloud, and the wiſdome therof remained, maketh a doubt, where none was, what our Savi<g ref="char:EOLhyphen"/>ours meaning ſhould bee, when he commanded him to forgive his brother. <hi>Lord,</hi> ſaith hee, thou haſt taught mee, to forgive my brother, but thou haſt not told me how oft: we muſt know that too: how oft muſt I ſo doe: what,<note place="margin">Mat. 18.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> till ſeaven times? muſt I doe it ſo oft? Our Saviour an<g ref="char:EOLhyphen"/>ſwereth, <hi>I ſay not to thee, ſeven times, but ſeventy times ſeven times:</hi> ſo oft,
+<pb n="38" facs="tcp:150405:23"/> as hee can offend thee, ſo oft, muſt thou forgive him<g ref="char:punc">▪</g> Was it not a ſtrange matte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that <hi>Peter</hi> ſhould make ſuch a doubt, who was taugh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to pray, forgive us our treſpaſſes, as wee forgive them, that treſpaſſe againſt us? would <hi>Peter</hi> aske, how oft GOD ſhould forgive? What ſeven times? But ſo ignorant, and blinde are we, till God have opened our eyes. This was a thing, which fleſh and bloud had revealed to <hi>Peter,</hi> that hee muſt forgive his brother ſeaven times. Wherefore our Saviour, to remove ſuch a queſtion, as might bee made, <hi>Lord,</hi> thou' haſt commanded us, to take up our croſſes, and follow
+<pb n="39" facs="tcp:150405:23"/> thee, when muſt wee doe it? when muſt we begin? how long muſt wee hold on? when muſt wee lay it downe? what in our age? when our ſtrength is ſpent? for ſeaven dayes? or a yeare? Nay, our Saviour hath limited out the terme, dayly, every day, there is no vacation: the terme for this exerciſe endeth with this life.</p>
+            <p>This then is another thing diligently to be no<g ref="char:EOLhyphen"/>ted, for there are many, that fault herein. Chriſt may have all the world to follow him, if it were to eate bread, to bee ſatisfied with ſuch things, as this preſent life deſireth; but not ſo many, when they
+<pb n="40" facs="tcp:150405:24"/> heare, that they muſt carry a Croſſe on their ſhoul<g ref="char:EOLhyphen"/>ders. Yea many there are, that would bee content, to take up their Croſſe too, and ſo goe with him: but they would have leave for a while, to bid their kinſ<g ref="char:EOLhyphen"/>folkes farewell, to take leave of their Parents, or to bury their Fathers, yea ſome, that have without delay forſaken all, and fol<g ref="char:EOLhyphen"/>lowed him, that in the midſt of their journey have fainted. Some, that have layd their hands to this plough, but not whol<g ref="char:EOLhyphen"/>ly regarding, what they had in hand, have looked backe to other matters, and become unworthy of the kingdome of God. Theſe
+<pb n="41" facs="tcp:150405:24"/> all were fooliſh builders, that had not made a per<g ref="char:EOLhyphen"/>fect account of their char<g ref="char:EOLhyphen"/>ges. Wherefore, we muſt take this with us, for one part of our reckoning; that the <hi>Croſſe,</hi> which we talked of, muſt be taken up every day. We are not for <hi>Chriſts</hi> company, if to day we be content to carry his <hi>Croſſe,</hi> but not to morrow: for ei<g ref="char:EOLhyphen"/>ther ever, or never. Wee have therfore here to note, that in this life, the chil<g ref="char:EOLhyphen"/>dren of God, are not to looke for any reſt, but that, as one day followeth ano<g ref="char:EOLhyphen"/>ther, and one night ano<g ref="char:EOLhyphen"/>ther, ſo one Croſſe or cala<g ref="char:EOLhyphen"/>mity muſt accompany ano<g ref="char:EOLhyphen"/>ther. Then, that wee muſt be prepared to conſtancy,
+<pb n="42" facs="tcp:150405:25"/> and perſeverance, to ſettle our ſelves, and be reſolved, unmoveable in this point, whatſoever, whenſoever, how oft ſoever, it pleaſeth God to lay his Croſſe on us, to beare it willingly, and follow him.</p>
+            <p>Such was the eſtate of Gods Children, yea of Chriſt himſelfe, to whom it behoveth us, in this point, to bee made confor<g ref="char:EOLhyphen"/>mable. This was the cauſe, that moved <hi>Iacob</hi> to an<g ref="char:EOLhyphen"/>ſwer <hi>Pharaoh,</hi>
+               <note place="margin">Gen. 47.9.</note> demanding his age, <hi>few and evill, ſaith he, are the dayes of thy ſer<g ref="char:EOLhyphen"/>vant, ſmall in number, and continuance, full of evill, full of troubles, calamities, and croſſes.</hi> And ſo might <hi>Iacob</hi> well ſay: for of the
+<pb n="43" facs="tcp:150405:25"/> hundred and thirty yeares of his Pilgrimage, how many dayes paſſed hee, without ſorrow and trou<g ref="char:EOLhyphen"/>ble? Nay in his mothers wombe, before he ſaw the light, hee was at warre, in trouble: his brother, ere hee was yet borne, ſtrove with him, or, as ſome read,<note place="margin">Gen. 25.22</note> hurt him. Afterwards, from the time, that the Children were able to diſ<g ref="char:EOLhyphen"/>cerne their right hand from their left, hee abode the malice of his brother, whoſe nature and diſpoſi<g ref="char:EOLhyphen"/>tion was quite contrary to his: he a plaine, ſimple, in<g ref="char:EOLhyphen"/>nocent, harmeleſſe thing, abiding at home, his bro<g ref="char:EOLhyphen"/>ther a jolly hunter, a man of the field, and fierce
+<pb n="44" facs="tcp:150405:26"/> wood man. But, when he had loſt his birth-right, and fathers bleſſing, depri<g ref="char:EOLhyphen"/>ved of both by his bro<g ref="char:EOLhyphen"/>ther, no marvell, if the fire, which bred in the womb, burſt out to a flame, if he vowed, that when the dayes of mourning for his Father <hi>Iſaac</hi> were come; he would kill his brother <hi>Ia<g ref="char:EOLhyphen"/>cob.</hi> Then was it time for him to flye, being forced to leave his old blind Fa<g ref="char:EOLhyphen"/>ther, now ready to yeeld up the ghoſt, and deare and kind mother, that loved him no leſſe, then her own ſoule. But leave them he muſt, if he wil ſave his life; his mother conſelleth him, to run to her brother, his Vncle <hi>Laban,</hi> and there to
+<pb n="45" facs="tcp:150405:26"/> abide, till his brothers wrath were aſſwaged. So hee parteth from his Pa<g ref="char:EOLhyphen"/>rents forward on his jour<g ref="char:EOLhyphen"/>ney: by the way, he reſteth his weary limbes on the ground, and under his head for a pillow,<note place="margin">Gen. 28.14</note> hath he layd an hard ſtone: but, even then <hi>God</hi> commeth to him, comforteth him, promi<g ref="char:EOLhyphen"/>ſeth him, and his ſeed a mighty increaſe. At length he commeth to <hi>Haran,</hi> and is entertained of his Vncle <hi>Laban;</hi> but as a ſervant, in his own occupation, which hee had beene taught: <hi>La<g ref="char:EOLhyphen"/>ban</hi> promiſeth him wages for his travell, and ſo hee bindeth himſelfe prentiſe, for ſeven yeares. His wages was <hi>Rachel,</hi> for
+<pb n="46" facs="tcp:150405:27"/> whom hee ſerved ſeaven yeares, and although, be<g ref="char:EOLhyphen"/>cauſe hee loved her, it ſee<g ref="char:EOLhyphen"/>med but a little while to him, yet endured hee no ſmall trouble, the heat of the day, and cold of the night; and that which paſ<g ref="char:EOLhyphen"/>ſed all, hee was couſened and beguiled of his Wife, when his terme was ended, ſo that hee was faine to ſerve ſeven yeares more for her againe. What ſhould I rippe up unto you, the diſcourteſies, and hard countenances of his Vncle, and father in law, the envy and grudging of his Wives brethren, the often chan<g ref="char:EOLhyphen"/>ging of his wages? yet, under all theſe croſſes, GODS bleſſing was with
+<pb n="47" facs="tcp:150405:27"/> him, and he encreaſed ex<g ref="char:EOLhyphen"/>ceeding. At laſt, hee fled from <hi>Laban,</hi> not taking leave of him; for which cauſe <hi>Laban</hi> was wrath, &amp; purſued him, and had cer<g ref="char:EOLhyphen"/>tainely done him ſome e<g ref="char:EOLhyphen"/>vill, had not God forbad him expreſly. Well, it pleaſed GOD, that his heart was changed, and they departed friends: but, no ſooner eſcaped hee this feare, but, behold, hee was overtaken with a greater. For he meeteth with <hi>Eſau</hi> his deadly enemie, accom<g ref="char:EOLhyphen"/>panied with no leſſe, than foure hundred men. No marvaile, if now hee were affraid, leſt the day were come, when he, his Wives, and Children ſhould bee
+<pb n="48" facs="tcp:150405:28"/> deſtroyed at once: but <hi>God</hi> had mercy on him, turned the hard heart of <hi>Eſau,</hi> and ſoftned it. Hee runneth to meet his brother, falleth on his necke, kiſſeth him, and weepeth with him.</p>
+            <p>Being ſo rid from him, hee commeth into <hi>Canaan,</hi> and dwelleth among the <hi>Shechemites:</hi> but alas, what ſorrow, and griefe ſuſtai<g ref="char:EOLhyphen"/>ned hee there? to ſee his daughter raviſhed, and his ſonnes commit that hor<g ref="char:EOLhyphen"/>rible and cruell murther, by their falſhood and naughty dealing, upon all the poore <hi>Shechemites:</hi> yea <hi>Iacob</hi> was in feare, leſt the <hi>Canaanites</hi> would have ri<g ref="char:EOLhyphen"/>ſen up againſt him, and ſlaine both him and all his
+<pb n="49" facs="tcp:150405:28"/> houſe. It were too long, to ſtand upon the ſor<g ref="char:EOLhyphen"/>rowes, and reckon up all the croſſes, which he after ſuſtained, which yet the <hi>Holy Ghoſt</hi> hath, for our inſtruction, layd out at large. What a griefe, that <hi>Reuben</hi> the eldeſt, ſhould climbe up into his Fathers bed, and defile it? what a death, to loſe <hi>Ioſeph,</hi> and to have him, as his Sonnes made him believe, torne in pieces of wilde beaſts? What care, and penſive<g ref="char:EOLhyphen"/>neſſe, to provide in the great famine, for his great houſehold? The griefe he abode, when <hi>Simeon</hi> was kept behinde in Egypt, and hee muſt part with <hi>Benjamin</hi> alſo, on whoſe
+<pb n="50" facs="tcp:150405:29"/> life his depended, <hi>Geneſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 44. <hi>verſe</hi> 30. Well<g ref="char:punc">▪</g> through all theſe, GOD delivereth him, and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> length brought him into Aegypt, and reſtored him to his ſonne. But, you ſee in part, what a world of miſery hee paſſed tho<g ref="char:EOLunhyphen"/>rough, how many croſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hee carryed, with what pa<g ref="char:EOLunhyphen"/>tience hee endured, what a good end GOD put to them all, and how juſtl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hee might ſay to <hi>Pharaoh</hi> that the dayes of his pil<g ref="char:EOLunhyphen"/>grimage were but few i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> number, but full of evill<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſorrowes.</p>
+            <p>Now what hath been ſaid of <hi>Iſrael,</hi> may be ſeene true in all his ſeed and in all the <hi>Iſrael</hi> of <hi>God</hi>
+               <pb n="51" facs="tcp:150405:29"/> how that this is the badge, and cogniſance of all <hi>Gods</hi> Children, of all ſuch, as follow CHRIST, dai<g ref="char:EOLhyphen"/>ly to beare a Croſſe: The Scripture is nothing elſe, but, as it were, a tragedy of all the Croſſes, which the godly have dayly en<g ref="char:EOLhyphen"/>dured, and a plaine demon<g ref="char:EOLhyphen"/>ſtration of Saint <hi>Pauls</hi> ſpeech, <hi>that all that will live godly, must ſuffer perſecu<g ref="char:EOLhyphen"/>tion:</hi> 2 <hi>Tim.</hi> 3. <hi>verſe</hi> 12. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat whoſoever will follow</hi> CHRIST, <hi>muſt deny himſelfe, and take his Croſſe daily, and follow Him.</hi> wee muſt therefore hold but unto the end, if wee will bee ſaved; which the Commandement requi<g ref="char:EOLhyphen"/>reth of us, and the reward,
+<pb n="52" facs="tcp:150405:30"/> for the performance, and puniſhment for the tranſ<g ref="char:EOLunhyphen"/>greſſion thereof, doe with all neceſſarily enforce <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto.</p>
+            <p>This is the cauſe, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Church of <hi>Thyatir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> commanded, <hi>to hold f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> till</hi> CHRIST <hi>come, Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 2. <hi>verſe</hi> 25. Why we a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all enjoyned to continu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and not to faint in w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doing. <hi>Why a Crow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is promiſed to thoſe, the ſtrive manfully, Iames <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> verſe</hi> 12. <hi>Hee is bleſſed the endureth: wee muſt bee pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ent unto the</hi> LORD<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>comming, as the Huſband man waiteth for the precio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fruit of the earth, and ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> long patience for it, unto hee receive the first and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="53" facs="tcp:150405:30"/> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ater raine, Iames</hi> 5. <hi>verſe</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp;c. <hi>The ſeed of joy and peace and all happineſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſowen for the righteous: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is ſowen, it lyeth hid un<g ref="char:EOLhyphen"/>der the earth, Pſalme</hi> 97. <hi>verſe</hi> 11. wee muſt ex<g ref="char:EOLhyphen"/>pect the fruit thereof in patience, for wee ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eape it, if wee faint not, in good time: a fruit more precious, than that of the earth, <hi>ſuch glad<g ref="char:EOLhyphen"/>neſſe, ſuch joy as paſſeth that of theirs, whoſe corne, and wine, and oyle is increa<g ref="char:EOLhyphen"/>ſed, Pſalme</hi> 4. <hi>verſe</hi> 7. For it is nothing to begin, un<g ref="char:EOLhyphen"/>leſſe wee continue. And, as they that runne in a race, though they ſet outnever ſo luſtily, and runne never ſo ſwiftly, yet receive not
+<pb n="54" facs="tcp:150405:31"/> the reward, till they come to the end, but looſe the labour, and beat the ayr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if they faint in the midſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give over, before they come to the Gaole: ſo for this Crowne of glory though wee runne forth while, never ſo haſtily, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if we ſtay in the midway or leave before we come to the end, wee looſe our re<g ref="char:EOLunhyphen"/>ward. And not that only but our caſe will bee ſuch that better it had beene for us, never to have begunne<g ref="char:punc">▪</g> then to have given over. <hi>Vnwiſe Galatians, that be<g ref="char:EOLunhyphen"/>gan in the ſpirit, and made an end in the fleſh: Gal.</hi> 3<g ref="char:punc">▪</g> 
+               <hi>verſe</hi> 3. <hi>that ranne well at the ſetting out, but were hin<g ref="char:EOLhyphen"/>dered, or they received the
+<pb n="55" facs="tcp:150405:31"/> price, Galat.</hi> 5.7. <hi>Fowle <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wine, that, when they are waſhed, returne to their wal<g ref="char:EOLhyphen"/>lowing in the myre,</hi> 2 <hi>Pet.</hi> 2. <hi>verſe</hi> 22. <hi>Hee that is juſt, let him be more juſt, he that is pure let him be more pure, hee that is holy let him bee more holy, Revelations</hi> 22. <hi>verſe</hi> 11. he that beareth Chriſts Croſſe to day, let him beare it alſo to mor<g ref="char:EOLhyphen"/>row, and every day, or elſe it were better, he had never layd hand to it. Hee that hath layd his hand to the plough, let his eyes looke ſtraight before to his fur<g ref="char:EOLhyphen"/>row, and not looke backe to other things.</p>
+            <p>Our Saviour biddeth us <hi>Remember Lots Wife, Luk.</hi> 17. <hi>verſe</hi> 32. <hi>Lots</hi> Wife
+<pb n="56" facs="tcp:150405:32"/> was brought out of <hi>So<g ref="char:EOLunhyphen"/>dome,</hi> ſhe was commanded not to looke backe to that wicked place: ſhee began well, and walked on with her face forwards, but ſhe held not on to the race end, but in the midſt loo<g ref="char:EOLhyphen"/>ked back, and was preſent<g ref="char:EOLhyphen"/>ly turned into a pillar of ſalt.</p>
+            <p>
+               <note place="margin">Hoſ. 4.6</note>The LORD, by the Prophet, maketh this com<g ref="char:EOLhyphen"/>plaint againſt <hi>Ephraim; O Ephraim, what ſhall I do un<g ref="char:EOLunhyphen"/>to thee? O Iudah, how ſhall I intreat thee? For your goodneſſe is as a morning cloud, and as the morning dew it goeth away.</hi> GOD would, and hee knew how, deale favourably with them, but hee cannot ſhew
+<pb n="57" facs="tcp:150405:32"/> them any pitty, which bee temporizers, time-ſervers, which will ſerve him only for a while: what good<g ref="char:EOLhyphen"/>neſſe is in them? or to what ſhall it bee likened? it is like, ſaith God, a mor<g ref="char:EOLhyphen"/>ning cloud, which appea<g ref="char:EOLhyphen"/>reth for a while, but be<g ref="char:EOLhyphen"/>hold it vaniſheth, or as the dew, which in the morning covereth the earth, but when the Sunne ariſeth, it getteth it ſelfe away, and leaveth no ſigne of its pre<g ref="char:EOLhyphen"/>ſence behinde. Such are they, which will follow <hi>Chriſt,</hi> and beare his <hi>Croſſe,</hi> for a while: they appeare in the morning, before the Sun ariſe, but in the heat of the day they appeare not: when affliction, and the
+<pb n="58" facs="tcp:150405:33"/> heat thereof appeareth, they hide their heads, and get them into their lurking holes.</p>
+            <p>Let us therefore conſi<g ref="char:EOLhyphen"/>der, that the taking up, and dayly bearing of our Croſſe, is not a thing of our owne voluntary will, to be undertaken, or omit<g ref="char:EOLhyphen"/>ted, but neceſſarily enjoy<g ref="char:EOLhyphen"/>ned by <hi>Christ,</hi> not to a few, that would bee excellent, and above their fellowes, but even to all, and every one, that would follow him, that would bee his Diſciple, that would bee a true Chriſtian, and that we continue herein, and not faint, and bee weary, or in any caſe moved from our ſtanding: conſidering, that
+<pb n="59" facs="tcp:150405:33"/> even ſuch, as hee vouchſa<g ref="char:EOLhyphen"/>fed to deliver from great deſtruction, yet for not continuing, and holding on in that, which they had well begunne, are moſt ſe<g ref="char:EOLhyphen"/>verely puniſhed: that God knoweth not, how to ſhew mercy to ſuch, as are but as morning dew, and morning clouds, appearing for a while, and ſuddenly vani<g ref="char:EOLhyphen"/>ſhing: but rather let us re<g ref="char:EOLhyphen"/>member, that the crowne of glory is propoſed to ſuch, as fight lawfully, not to ſuch, as beat the ayre, to ſuch, as come to the end of the race, not to them, that runne well for a while, and ſo give over: that ſuch ſhall receive the fruit of that peace, which is ſowen
+<pb n="60" facs="tcp:150405:34"/> for the juſt, that patiently endure the Lords leaſure: finally, that ſuch ſhall fol<g ref="char:EOLhyphen"/>low Chriſt, and bee fit for his company, as dayly take up their Croſſe, and as it followeth, follow him. <hi>If any man, ſaith our Savi<g ref="char:EOLhyphen"/>our, will come after mee, let him deny himſelfe, and take up his Croſſe dayly, and fol<g ref="char:EOLhyphen"/>low me.</hi>
+            </p>
+            <p>Being thus prepared for the purpoſe, having re<g ref="char:EOLhyphen"/>nounced our ſelves, and all that is in us, and taken up our Croſſe on our ſhoul<g ref="char:EOLhyphen"/>ders, we muſt, in GODS name and feare take our voyage after our Savi<g ref="char:EOLhyphen"/>our, and bleſſed LORD. For, as the Souldier prepa<g ref="char:EOLhyphen"/>reth himſelfe, and buck<g ref="char:EOLhyphen"/>leth
+<pb n="61" facs="tcp:150405:34"/> his harneſſe about him, not therein to ſtay at home, or beſtow himſelfe about his common buſines, but to joyne himſelfe to the army, and follow his Captaine; So, each true Chriſtian, and ſworne Souldier of Chriſt, muſt bee prepared, with his Croſſe on his ſhoulders, not to ſit ſtill, or lye down under it, or to take what reſt he can, but hee muſt get up on his feet, and be going, hee muſt march on luſtily, and with a bold courage.</p>
+            <p>And for that all this were to no end neither, ei<g ref="char:EOLhyphen"/>ther to be under the <hi>Croſſe,</hi> or to goe on, unleſſe wee knew whither to goe, where to ſtay; wee are
+<pb n="62" facs="tcp:150405:35"/> here taught, what ſteppes we are to tread which way to travell, and how to jour<g ref="char:EOLhyphen"/>ney. For, if we ſhould take a wrong way, what would it profit us, though wee made never ſo great haſt. Now indeed ſo many wayes there are, and by-paths, and wee, like ſimple Sheepe, ſo eaſie to ſtray, and miſſe the right way, that we had need have the way trod out before us, and bee well inſtructed, which we ſhould take. For, there is a broad way, which wee can hardly keepe us out of, for many there are that walke in it, and it leadeth to death and deſtruction. There is a way, which is full of darkneſſe, and men
+<pb n="63" facs="tcp:150405:35"/> loving darkeneſſe more than light, rejoyce to walke in it: but, becauſe they want the light, they ſtumble and fall in it. Yea, that which is worſt, there is a way, which ſeemeth to bee the right way, and the narrow way, and the light way; but the end thereof leadeth to deſtruction. In a word, each man hath a way of his owne, which ſeemeth to bee right in his owne eyes, but is not ſo. Wherefore, need it was for us to know, ſeeing wee are to bare a Croſſe, and follow on, whom to fol<g ref="char:EOLhyphen"/>low, which way to take.</p>
+            <p>Whom then muſt wee follow? Our Saviour ſaith, <hi>follow me.</hi> We muſt
+<pb n="64" facs="tcp:150405:36"/> neither follow our owne wayes, nor any mans elſe, but his alone, that here ſpeaketh unto us. <hi>I have conſidered my wayes,</hi> ſaith the Prophet, <hi>and turned my feet into thy testimonies, Pſalme</hi> 119. <hi>ver.</hi> 59. The Prophet conſidered his owne wayes, thoſe where<g ref="char:EOLhyphen"/>in hee walked of himſelfe, and whereinto hee was ſlipt, by that corruption of nature, which leadeth us all aſtray, and conſidering thereof, and of his duty to GOD, which had appoin<g ref="char:EOLhyphen"/>ted him to walke another way, hee drew backe his feet from that path, and turned into the way of Gods teſtimonies. So ready are wee to de<g ref="char:EOLhyphen"/>cline
+<pb n="65" facs="tcp:150405:36"/> from following the right path, as he ſaith al<g ref="char:EOLhyphen"/>ſo in the ſame Pſalme; <hi>Be<g ref="char:EOLhyphen"/>fore I was afflicted, I went aſtray: Verſe</hi> 67. that is, Before I had the Croſſe on my ſhoulders, I walked af<g ref="char:EOLhyphen"/>ter mine owne hearts luſt, and followed not thee. Or, as ſome read it, before I could ſpeake, I went a<g ref="char:EOLhyphen"/>ſtray; even from mine in<g ref="char:EOLhyphen"/>fancy, even from the womb, I have wandered and followed mine owne ſteppes. Therefore, it is convenient for us, to call our wayes to remem<g ref="char:EOLhyphen"/>brance, it is good for us to bee afflicted, that wee may learne whom to fol<g ref="char:EOLhyphen"/>low. Wee muſt then not follow our wayes, neither
+<pb n="66" facs="tcp:150405:37"/> the ſteppes of any man, but onely of CHRIST our Saviour. If then we will bee ſure not to wan<g ref="char:EOLhyphen"/>der, let us conſider whom we muſt follow, for this is the thing, whereof wee muſt have a diligent re<g ref="char:EOLhyphen"/>gard.</p>
+            <p>How many have there beene, who becauſe they have not knowne the ne<g ref="char:EOLhyphen"/>ceſſity of this commande<g ref="char:EOLhyphen"/>ment, have walked, and wandered in by-paths, yea wearyed themſelves there<g ref="char:EOLhyphen"/>in, and loſt their labour? for that they have follow<g ref="char:EOLhyphen"/>ed, either their owne wayes, or the wayes of men; whereas, the onely way is CHRIST, and who ſo follow not him,
+<pb n="67" facs="tcp:150405:37"/> they ſtray, and are out of their path. If then wee would know, what the will-worſhip of men, their owne inventions to ſerve GOD, their owne deviſes, and good meanings, their outward holineſſe of their owne imagination, what all theſe profit them; mark and ſee, whether theſe things have beene by CHRIST commanded them, whether therein they follow him, or no: which if they doe not, let them have never ſo faire a ſhew, yet are they moſt a<g ref="char:EOLhyphen"/>bominable in GODS ſight; nay there is no<g ref="char:EOLhyphen"/>thing, which his ſoule more abhorreth, then ſuch care, and diligence in doing that,
+<pb n="68" facs="tcp:150405:38"/> which hee hath not com<g ref="char:EOLhyphen"/>manded. What man, that hath not learned this leſ<g ref="char:EOLhyphen"/>ſon, but would commend the doing of King <hi>Saul,</hi> and his zeale to Gods ſer<g ref="char:EOLhyphen"/>vice. Being commanded to fight againſt <hi>Amalek,</hi> and to ſlay both Man and Woman, infant and ſuck<g ref="char:EOLhyphen"/>ling, Oxe and Sheepe, Camell and Aſſe; hee deſtroyeth, as the Scrip<g ref="char:EOLhyphen"/>ture ſheweth, all the peo<g ref="char:EOLhyphen"/>ple, onely the King of the <hi>Amalekites</hi> he took alive, and the better Sheepe and the Oxen, the fat beaſts, the Lambes hee reſerveth. The LORD comes to <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> ſaying, It repenteth me that I have made <hi>Saul</hi> King, for he turneth from
+<pb n="69" facs="tcp:150405:38"/> mee, and hath not perfor<g ref="char:EOLhyphen"/>med my Commandement, he hath left following me, and is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one after his owne wayes. But what thinketh <hi>Saul?</hi> ſure, that hee had done marvellouſ<g ref="char:EOLhyphen"/>ly well: for, meeting with <hi>Samuel,</hi> hee ſaluteth him, <hi>Bleſſed bee thou of the Lord, I have fulfilled the Commandement of the Lord.</hi> See, I pray you, how ready he was to juſtifie himſelfe: he was in a minde, that he had done marvellouſly well, and no man could mend it: I have, Sir, ſaith <hi>Saul,</hi> fulfilled Gods Com<g ref="char:EOLhyphen"/>mandement. Is it ſo, ſaith <hi>Samuel?</hi> what meaneth then the bleating of the Sheepe in mine eares, and
+<pb n="70" facs="tcp:150405:39"/> the lowing of the Oxen, that I heare? <hi>Saul</hi> anſwers readily, they have brought them from the <hi>Amalekites,</hi> they are of the beſt of the Sheepe, and the Oxen, and they will forſooth, ſacri<g ref="char:EOLhyphen"/>fice them to the Lord thy God: the remnant wee have deſtroyed. But <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> telleth him, that here<g ref="char:EOLhyphen"/>in hee hath done wickedly: he replyeth, and diſputeth out the matter. Nay, it is not ſo, I have obeyed GODS voyce, and have gone the way, which the LORD ſent me, and have brought <hi>Agag,</hi> and have deſtroyed the <hi>Amalekites:</hi> the people indeed have ta<g ref="char:EOLhyphen"/>ken of the chiefeſt things, but it is to offer them to
+<pb n="71" facs="tcp:150405:39"/> the LORD thy GOD. What harme is in this? Is it not a good meaning? Is it not to a good purpoſe? commeth it not of a good intent? Sure wee have o<g ref="char:EOLhyphen"/>beyed the voyce of the Lord. But <hi>Samuel</hi> ſayd, hath the LORD as great pleaſure in burnt offerings, and ſacrifices, as when his voyce is obeyed? even ſa<g ref="char:EOLhyphen"/>crifice it ſelfe is not accep<g ref="char:EOLhyphen"/>table to GOD, unleſſe his voyce be obeyed, unleſſe it bee his commandement, how faire a ſhew ſoever it make, though it bee a ſa<g ref="char:EOLhyphen"/>crifice, yea of the beſt of the Sheepe, yet it is diſ<g ref="char:EOLhyphen"/>pleaſant in his ſight: for to doe any thing in Gods ſer<g ref="char:EOLhyphen"/>vice, but what he hath ap<g ref="char:EOLhyphen"/>pointed,
+<pb n="72" facs="tcp:150405:40"/> to chooſe our owne wayes, and not only to follow CHRIST, is rebellion againſt his Maje<g ref="char:EOLhyphen"/>ſtie, which is as the ſinne of witchcraft, this tranſ<g ref="char:EOLhyphen"/>greſſion is wicked idola<g ref="char:EOLhyphen"/>try. All our good intents, all our good meaning, all our will-worſhip, and ſervice of our owne inven<g ref="char:EOLhyphen"/>tion, is Idolatry, nothing better, ſo farre from being meritorious, or acceptable to GOD. And why Ido<g ref="char:EOLhyphen"/>latry? Even becauſe they make, and imagine to themſelves another GOD, then there is indeed: for they thinke they ſerve a GOD, that will bee plea<g ref="char:EOLhyphen"/>ſed with ſuch obedience as they deviſe, and that will
+<pb n="73" facs="tcp:150405:40"/> like whatſoever they fancy. Now indeed, our God is no ſuch God: for hee will only bee ſerved, but as hee hath commanded. Wher<g ref="char:EOLhyphen"/>efore, while they thus think, and thus doe, they imagine to themſelves ſuch a God, as is not, and worſhip him they know not. The only ſafe rule therefore for us, is to follow CHRIST, not to walke in our own wayes, or follow after men: for his ſheepe heare his voyce, and a ſtranger will they not heare.<note place="margin">Ioh. 10.27.</note> And this is the cauſe why our Saviour limiteth us whom to follow, even him, even him alone, and none but him.</p>
+            <p>But if it be ſo, may you ſay, why doth <hi>Paul</hi> com<g ref="char:EOLhyphen"/>mand
+<pb n="74" facs="tcp:150405:41"/> the Corinthians to bee followers of him?<note place="margin">1 Cor. 11.1. Phil. 3.17.</note> 
+               <hi>Be yee followers of mee: and walke as you have us for an example: and the Shep<g ref="char:EOLunhyphen"/>heards are commanded to goe in and out before their flocke</hi> An eaſie thing to under<g ref="char:EOLunhyphen"/>ſtand this. <hi>Paul</hi> layeth o<g ref="char:EOLunhyphen"/>pen this meaning: follow mee, ſaith hee; but how long? When? Even as I follow CHRIST: ſo long follow me. If I ſtep aſide, it is no warrant to you: for Chriſt muſt you onely follow, and mee, ſo long as I follow him. For as Souldiers are ſaid one to follow another, while they all follow their Captaine, ſo may wee bee ſaid to fol<g ref="char:EOLhyphen"/>low <hi>Paul,</hi> or any ſervant of
+<pb n="75" facs="tcp:150405:41"/> Chriſt, ſo long as they walke in Chriſts ſteps, and follow him. But, if, they decline, beware how yee follow them. Were he as great as <hi>Paul,</hi> that was rapt up into heaven, yea as an Angell ſent downe from heaven, we have no warrant to follow him, any further, then he followeth Chriſt.</p>
+            <p>Moreover, when our Sa<g ref="char:EOLhyphen"/>viour biddeth us to follow him, he expreſſeth the duty a good Captaine, who ſaith not to his Souldiers, goe you, but come you, and fol<g ref="char:EOLhyphen"/>low mee, doe as you ſee me doe; I require no other thing of you, than I will my ſelfe bee content to abide. I bid you not goe, but I bid you come on, and follow
+<pb facs="tcp:150405:42"/> mee. Of a good Shep<g ref="char:EOLhyphen"/>heard, that leadeth forth his Sheepe and gui<g ref="char:EOLhyphen"/>deth them.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <signed>Thomas Weekes.</signed>
+            </closer>
+            <pb facs="tcp:150405:42"/>
+         </div>
+      </back>
+   </text>
+</TEI>
